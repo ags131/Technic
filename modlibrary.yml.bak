@@ -427,7 +427,7 @@ mods:
             v49.0.7:
             v49.0.4:
             v48.2.1:
-    immibisper:
+    zimmibisper:
         name: "Immibis Peripherals"
         installtype: "zip"
         versions:
