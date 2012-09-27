@@ -216,6 +216,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.41:
             v1.4:
             v1.33:
             v1.31:
@@ -270,6 +271,7 @@ mods:
         name: "Dimensional Anchors"
         installtype: "zip"
         versions:
+            v4.0
             v3.2:
     doorfix:
         name: "Door Fix"
@@ -421,6 +423,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v49.2.2:
             v49.2.0:
             v49.1.1:
             v49.1.0:
@@ -431,6 +434,7 @@ mods:
         name: "Immibis Peripherals"
         installtype: "zip"
         versions:
+            v49.0.3:
             v50.0.0pr1:
     ingameinfo:
         name: "In Game Info"
@@ -814,6 +818,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.3.0:
             v49.2.0:
             v49.1.2:
             v49.1.1:
