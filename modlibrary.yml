@@ -271,7 +271,7 @@ mods:
         name: "Dimensional Anchors"
         installtype: "zip"
         versions:
-            v4.0
+            v4.0:
             v3.2:
     doorfix:
         name: "Door Fix"
